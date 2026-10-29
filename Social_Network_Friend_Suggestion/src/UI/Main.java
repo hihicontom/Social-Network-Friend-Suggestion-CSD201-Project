@@ -12,6 +12,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         loadSampleData(facade);
 
+        
         int choice;
         do {
             showMenu();
